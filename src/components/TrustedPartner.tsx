@@ -1,14 +1,13 @@
 import React from "react";
 import Image from "next/image";
-import Icic from "/public/TrustedPartner/icici.png";
-// import Eylogo from "/public/TrustedPartner/Eylogo.png";
-import Eylogo from "/TrustedPartner/Eylogo.png";
-import IndusLaw from "/public/TrustedPartner/induslaw.png";
-import mitcon from "/public/TrustedPartner/mitcoin.png";
-import orbis from "/public/TrustedPartner/orbis.png";
-import jll from "/public/TrustedPartner/partner.png";
-import knightPrank from "/public/TrustedPartner/knight.png";
-import ksk from "/public/TrustedPartner/ksk.jpg";
+import Icic from "../..//public/TrustedPartner/icici.png";
+import Eylogo from "../../public/TrustedPartner/eylogo.png";
+import IndusLaw from "../..//public/TrustedPartner/induslaw.png";
+import mitcon from "../..//public/TrustedPartner/mitcoin.png";
+import orbis from "../..//public/TrustedPartner/orbis.png";
+import jll from "../..//public/TrustedPartner/partner.png";
+import knightPrank from "../..//public/TrustedPartner/knight.png";
+import ksk from "../..//public/TrustedPartner/ksk.jpg";
 
 const TrustedPartner = () => {
   const bank = [
