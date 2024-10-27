@@ -1,7 +1,8 @@
 import React from "react";
 import Image from "next/image";
 import Icic from "/public/TrustedPartner/icici.png";
-import Eylogo from "/public/TrustedPartner/Eylogo.png";
+// import Eylogo from "/public/TrustedPartner/Eylogo.png";
+import Eylogo from "/TrustedPartner/Eylogo.png";
 import IndusLaw from "/public/TrustedPartner/induslaw.png";
 import mitcon from "/public/TrustedPartner/mitcoin.png";
 import orbis from "/public/TrustedPartner/orbis.png";
