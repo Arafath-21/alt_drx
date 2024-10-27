@@ -1,0 +1,99 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 138 196" width="138" height="196">
+	<title>building-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="75.3" y1="30.3" x2="75.3" y2="187.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#9f65bb"/>
+			<stop offset="1" stop-color="#5da3ff"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="82.6" y1="0" x2="82.6" y2="17.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#9f65bb"/>
+			<stop offset="1" stop-color="#5da3ff"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="115.7" y1="0" x2="115.7" y2="17.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#9f65bb"/>
+			<stop offset="1" stop-color="#5da3ff"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="31.4" y1="204.1" x2="23.8" y2="102.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fff71d"/>
+			<stop offset="1" stop-color="#ffc507"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: #201e1e } 
+		.s2 { fill: #748ee8 } 
+		.s3 { fill: #111010 } 
+		.s4 { fill: url(#g2) } 
+		.s5 { fill: url(#g3) } 
+		.s6 { fill: #1c1919 } 
+		.s7 { fill: #1e1b1b } 
+		.s8 { fill: #ffffff } 
+		.s9 { fill: #221f24 } 
+		.s10 { fill: url(#g4) } 
+		.s11 { fill: #211d1d } 
+	</style>
+	<g id="building">
+		<g id="Group_176">
+			<path id="Rectangle_456" class="s0" d="m41.3 30.3h68v157.4h-68z"/>
+			<path id="Rectangle_456_-_Outline" fill-rule="evenodd" class="s1" d="m41.3 30.3h68v157.4h-68zm1 1v155.5h66v-155.5z"/>
+			<path id="Rectangle_457" class="s2" d="m136.2 187.7h-27.2v-157.4h27.2z"/>
+			<path id="Rectangle_457_-_Outline" fill-rule="evenodd" class="s3" d="m136.7 188.2h-28.2v-158.4h28.2zm-27.2-1h26.2v-156.4h-26.2z"/>
+			<path id="Rectangle_458" class="s2" d="m39.2 25.5h66v4.8h-66z"/>
+			<path id="Rectangle_458_-_Outline" fill-rule="evenodd" class="s3" d="m38.7 25h67v5.8h-67zm66 1h-65v3.7h65z"/>
+			<path id="Rectangle_459" class="s2" d="m44.2 17.6h61v7.9h-61z"/>
+			<path id="Rectangle_459_-_Outline" fill-rule="evenodd" class="s3" d="m43.7 17.1h62v8.9h-62zm61 1h-60v7h60z"/>
+			<path id="Rectangle_460" class="s4" d="m59 0h47.2v17.6h-47.2z"/>
+			<path id="Rectangle_460_-_Outline" fill-rule="evenodd" class="s1" d="m59 0h47.2v17.6h-47.2zm1 1v15.5h45.2v-15.5z"/>
+			<path id="Rectangle_461" class="s5" d="m105.2 0h20.9v17.6h-20.9z"/>
+			<path id="Rectangle_461_-_Outline" fill-rule="evenodd" class="s1" d="m105.2 0h20.9v17.6h-20.9zm1 1v15.5h18.9v-15.5z"/>
+			<path id="Rectangle_462" class="s2" d="m105.2 17.6h27.4v7.9h-27.4z"/>
+			<path id="Rectangle_462_-_Outline" fill-rule="evenodd" class="s3" d="m104.7 17.1h28.4v8.9h-28.4zm27.4 1h-26.4v7h26.4z"/>
+			<path id="Rectangle_463" class="s2" d="m105.2 25.5h32.3v4.8h-32.3z"/>
+			<path id="Rectangle_463_-_Outline" fill-rule="evenodd" class="s3" d="m104.7 25h33.3v5.8h-33.3zm32.3 1h-31.3v3.7h31.3z"/>
+			<path id="Rectangle_464" class="s2" d="m61 171.3h23.2v16.4h-23.2z"/>
+			<path id="Rectangle_464_-_Outline" fill-rule="evenodd" class="s6" d="m60.5 170.8h24.2v17.4h-24.2zm23.2 1h-22.2v15.4h22.2z"/>
+			<g id="Group_177">
+				<path id="Rectangle_465" fill-rule="evenodd" class="s7" d="m46.7 148.1h10.2v17h-10.2zm9.2 1h-8.2v15.1h8.2z"/>
+				<path id="Rectangle_466" fill-rule="evenodd" class="s7" d="m61 148.1h10.1v17h-10.1zm9.1 1h-8.1v15.1h8.1z"/>
+				<path id="Rectangle_467" fill-rule="evenodd" class="s7" d="m75.2 148.1h10.2v17h-10.2zm9.2 1h-8.2v15.1h8.2z"/>
+				<path id="Rectangle_468" fill-rule="evenodd" class="s7" d="m89.5 148.1h10.1v17h-10.1zm9.1 1h-8.1v15.1h8.1z"/>
+				<path id="Rectangle_469" fill-rule="evenodd" class="s7" d="m46.7 126h10.2v17.1h-10.2zm9.2 1h-8.2v15h8.2z"/>
+				<path id="Rectangle_470" fill-rule="evenodd" class="s7" d="m61 126h10.1v17.1h-10.1zm9.1 1h-8.1v15h8.1z"/>
+				<path id="Rectangle_471" fill-rule="evenodd" class="s7" d="m75.2 126h10.2v17.1h-10.2zm9.2 1h-8.2v15h8.2z"/>
+				<path id="Rectangle_472" fill-rule="evenodd" class="s7" d="m89.5 126h10.1v17.1h-10.1zm9.1 1h-8.1v15h8.1z"/>
+				<path id="Rectangle_473" fill-rule="evenodd" class="s7" d="m46.7 103.9h10.2v17.1h-10.2zm9.2 1h-8.2v15h8.2z"/>
+				<path id="Rectangle_474" fill-rule="evenodd" class="s7" d="m61 103.9h10.1v17.1h-10.1zm9.1 1h-8.1v15h8.1z"/>
+				<path id="Rectangle_475" fill-rule="evenodd" class="s7" d="m75.2 103.9h10.2v17.1h-10.2zm9.2 1h-8.2v15h8.2z"/>
+				<path id="Rectangle_476" fill-rule="evenodd" class="s7" d="m89.5 103.9h10.1v17.1h-10.1zm9.1 1h-8.1v15h8.1z"/>
+				<path id="Rectangle_477" fill-rule="evenodd" class="s7" d="m46.7 81.8h10.2v17.1h-10.2zm9.2 1h-8.2v15h8.2z"/>
+				<path id="Rectangle_478" fill-rule="evenodd" class="s7" d="m61 81.8h10.1v17.1h-10.1zm9.1 1h-8.1v15h8.1z"/>
+				<path id="Rectangle_479" fill-rule="evenodd" class="s7" d="m75.2 81.8h10.2v17.1h-10.2zm9.2 1h-8.2v15h8.2z"/>
+				<path id="Rectangle_480" fill-rule="evenodd" class="s7" d="m89.5 81.8h10.1v17.1h-10.1zm9.1 1h-8.1v15h8.1z"/>
+				<path id="Rectangle_481" fill-rule="evenodd" class="s7" d="m46.7 59.8h10.2v17h-10.2zm9.2 1h-8.2v15h8.2z"/>
+				<path id="Rectangle_482" fill-rule="evenodd" class="s7" d="m61 59.8h10.1v17h-10.1zm9.1 1h-8.1v15h8.1z"/>
+				<path id="Rectangle_483" fill-rule="evenodd" class="s7" d="m75.2 59.8h10.2v17h-10.2zm9.2 1h-8.2v15h8.2z"/>
+				<path id="Rectangle_484" fill-rule="evenodd" class="s7" d="m89.5 59.8h10.1v17h-10.1zm9.1 1h-8.1v15h8.1z"/>
+				<path id="Rectangle_485" fill-rule="evenodd" class="s7" d="m46.7 37.7h10.2v17h-10.2zm9.2 1h-8.2v15.1h8.2z"/>
+				<path id="Rectangle_486" fill-rule="evenodd" class="s7" d="m61 37.7h10.1v17h-10.1zm9.1 1h-8.1v15.1h8.1z"/>
+				<path id="Rectangle_487" fill-rule="evenodd" class="s7" d="m75.2 37.7h10.2v17h-10.2zm9.2 1h-8.2v15.1h8.2z"/>
+				<path id="Rectangle_488" fill-rule="evenodd" class="s7" d="m89.5 37.7h10.1v17h-10.1zm9.1 1h-8.1v15.1h8.1z"/>
+			</g>
+		</g>
+		<path id="Path_233" class="s8" d="m13.6 148.2c8.8-37-6.4-41.6-6.4-41.6h39.5c12.3 8.6 14.5 11.3 11.8 41.6-1.3 13.5 3.2 43.9 3.2 43.9l-45.5-0.6c0 0-4.9-26.9-2.6-43.3z"/>
+		<path id="Path_233_-_Outline" fill-rule="evenodd" class="s9" d="m15.9 191.9q0-0.1-0.1-0.1 0 0 0-0.1-0.1 0-0.1-0.1 0 0 0-0.1c0 0-1.3-6.8-2.2-15.5-0.5-5.1-0.9-9.8-1-14.1q-0.1-1.8-0.1-3.5 0-1.7 0.1-3.4 0.1-1.8 0.2-3.5 0.2-1.7 0.4-3.4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0-0.1c3-12.4 3.5-22.5 1.7-29.9-1.5-5.9-4.2-8.8-6.1-10.2q-0.2-0.1-0.4-0.3-0.2-0.1-0.4-0.2-0.2-0.1-0.4-0.2-0.2-0.1-0.4-0.2-0.2 0-0.3-0.2-0.1-0.1-0.1-0.3 0-0.2 0.2-0.3 0.1-0.1 0.3-0.2l39.5 0.1q0 0 0.1 0 0 0 0 0 0.1 0 0.1 0 0 0 0.1 0.1 1 0.6 1.9 1.3 1 0.7 1.9 1.4 1 0.8 1.9 1.6 0.9 0.8 1.7 1.6 0.8 0.7 1.4 1.5 0.6 0.8 1.2 1.7 0.5 0.9 0.9 1.8 0.5 1 0.8 2 0.3 1.3 0.6 2.7 0.3 1.3 0.4 2.7 0.2 1.4 0.3 2.8 0 1.4 0 2.8c0 4.4-0.3 10-1 18.1-0.5 5.5-0.1 14.9 1.1 27 1 9.2 2.1 16.8 2.1 16.8q0 0.2 0 0.3-0.1 0.1-0.1 0.1-0.1 0.1-0.2 0.2-0.1 0-0.2 0l-45.5-0.6q-0.1 0-0.1-0.1 0 0-0.1 0 0 0 0 0-0.1 0-0.1 0zm-1.8-43.6c-1.2 8.4-0.4 19.6 0.4 27.6 0.8 7.5 1.8 13.5 2.1 15.1l44.5 0.6c-0.3-1.9-1.2-8.6-2-16.3-0.9-8.5-1.7-20.1-1.1-27.2 1.4-16.1 1.3-23.6-0.3-28.7-1.7-5.5-5.4-8.3-11.2-12.3h-37.3 0.1q0.4 0.3 0.9 0.7 0.5 0.4 0.9 0.9 0.4 0.4 0.8 0.9 0.4 0.5 0.7 1 0.6 0.8 1.1 1.7 0.4 0.9 0.8 1.8 0.4 0.9 0.7 1.8 0.3 1 0.5 1.9c1.9 7.6 1.4 17.9-1.6 30.5z"/>
+		<path id="Path_22" class="s10" d="m7.6 151.2c8.8-37-6.4-41.6-6.4-41.6h39.5c12.3 8.6 14.5 11.3 11.8 41.6-1.3 13.5 3.2 43.9 3.2 43.9l-45.5-0.6c0 0-4.9-26.9-2.6-43.3z"/>
+		<path id="Path_22_-_Outline" fill-rule="evenodd" class="s9" d="m9.9 194.9q0-0.1-0.1-0.1 0 0 0-0.1-0.1 0-0.1-0.1 0 0 0-0.1c0 0-1.3-6.8-2.2-15.5-0.5-5.1-0.9-9.8-1-14.1q-0.1-1.8-0.1-3.5 0-1.7 0.1-3.4 0.1-1.8 0.2-3.5 0.2-1.7 0.4-3.4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0-0.1c3-12.4 3.5-22.5 1.7-29.9-1.5-5.9-4.2-8.8-6.1-10.2q-0.2-0.1-0.4-0.3-0.2-0.1-0.4-0.2-0.2-0.1-0.4-0.2-0.2-0.1-0.4-0.2-0.2 0-0.3-0.2-0.1-0.1-0.1-0.3 0-0.2 0.2-0.3 0.1-0.1 0.3-0.2l39.5 0.1q0 0 0.1 0 0 0 0 0 0.1 0 0.1 0 0 0 0.1 0.1 1 0.6 1.9 1.3 1 0.7 1.9 1.4 1 0.8 1.9 1.6 0.9 0.8 1.7 1.6 0.8 0.7 1.4 1.5 0.6 0.8 1.2 1.7 0.5 0.9 0.9 1.8 0.5 1 0.8 2 0.3 1.3 0.6 2.7 0.3 1.3 0.4 2.7 0.2 1.4 0.3 2.8 0 1.4 0 2.8c0 4.4-0.3 10-1 18.1-0.5 5.5-0.1 14.9 1.1 27 1 9.2 2.1 16.8 2.1 16.8q0 0.2 0 0.3-0.1 0.1-0.1 0.1-0.1 0.1-0.2 0.2-0.1 0-0.2 0l-45.5-0.6q-0.1 0-0.1-0.1 0 0-0.1 0 0 0 0 0-0.1 0-0.1 0zm-1.8-43.6c-1.2 8.4-0.4 19.6 0.4 27.6 0.8 7.5 1.8 13.5 2.1 15.1l44.5 0.6c-0.3-1.9-1.2-8.6-2-16.3-0.9-8.5-1.7-20.1-1.1-27.2 1.4-16.1 1.3-23.6-0.3-28.7-1.7-5.5-5.4-8.3-11.2-12.3h-37.3 0.1q0.4 0.3 0.9 0.7 0.5 0.4 0.9 0.9 0.4 0.4 0.8 0.9 0.4 0.5 0.7 1 0.6 0.8 1.1 1.7 0.4 0.9 0.8 1.8 0.4 0.9 0.7 1.8 0.3 1 0.5 1.9c1.9 7.6 1.4 17.9-1.6 30.5z"/>
+		<g id="Group_51">
+			<path id="Path_23" class="s11" d="m40.7 126.8h-28.8v-2h28.8z"/>
+			<path id="Path_24" class="s11" d="m42.8 131.9h-28.9v-1h28.9z"/>
+			<path id="Path_27" class="s11" d="m44.7 142.9h-29.8v-1h29.8z"/>
+			<path id="Path_25" class="s11" d="m43.7 137.9h-28.9v-1h28.9z"/>
+			<path id="Path_26" class="s11" d="m43.7 147.9h-29.8v-1h29.8z"/>
+			<path id="Path_28" class="s11" d="m41.8 153.9h-29.9v-1h29.9z"/>
+			<path id="Path_29" class="s11" d="m41.8 158.9h-31.7v-1h31.7z"/>
+			<path id="Path_30" class="s11" d="m41.8 163.9h-31.9v-1h31.9z"/>
+			<path id="Path_31" class="s11" d="m42.8 175.3l-31.9-0.1v-1h31.9z"/>
+			<path id="Path_32" class="s11" d="m43.7 179.3l-31.8-0.1v-1h31.8z"/>
+		</g>
+	</g>
+</svg>
